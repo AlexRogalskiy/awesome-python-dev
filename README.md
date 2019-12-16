@@ -7,7 +7,8 @@ Tools to debug, profile, validate software written in python language.
 * [CPU Profilers](#cpu-profilers)
 * [Memory Profilers](#memory-profilers)
 * [Debuggers](#debuggers)
-* [Lynters](#lynters)
+* [Static Analysis](#static-analysis)
+* [Security](#security)
 
 ## CPU Profilers
 
@@ -23,10 +24,15 @@ Tools to debug, profile, validate software written in python language.
 * [pudb](https://github.com/inducer/pudb) - Full-screen console debugger for Python
 * [ipython](https://github.com/ipython/ipython) - Productive Interactive Computing
 
-## Lynters
+## Static Analysis
 
 * [pylint](https://github.com/PyCQA/pylint) - a Python static code analysis tool which looks for programming errors, helps enforcing a coding standard, sniffs for code smells and offers simple refactoring suggestions.
 * [flake8](https://github.com/PyCQA/flake8) - a wrapper around these tools: PyFlakes, pycodestyle, Ned Batchelder's McCabe script
+* [pyflakes](https://github.com/PyCQA/pyflakes) - A simple program which checks Python source files for errors
+
+## Security
+
+* [bandit](https://github.com/PyCQA/bandit) -  a tool designed to find common security issues in Python code
 
 ## Feedback
 
