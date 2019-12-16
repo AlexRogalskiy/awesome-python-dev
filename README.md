@@ -33,6 +33,7 @@ Tools to debug, profile, validate software written in python language.
 * [prospector](https://github.com/PyCQA/prospector) - a tool to analyse Python code and output information about errors, potential problems, convention violations and complexity
 * [mypy](https://github.com/python/mypy) - an optional static type checker for Python 
 * [mccabe](https://github.com/PyCQA/mccabe) - Ned's script to check McCabe complexity
+* [pytype](https://github.com/google/pytype) - checks and infers types for your Python code - without requiring type annotations
 
 ## Security
 
