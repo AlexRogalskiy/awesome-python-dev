@@ -1,6 +1,6 @@
 # awesome-python-dev
 
-List of tools for debugging, profiling and finding errors in python programs.
+List of tools for debugging, profiling and analyzing python programs.
 
 ## Contents
 
