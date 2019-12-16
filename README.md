@@ -41,6 +41,7 @@ Tools to debug, profile, validate software written in python language.
 ## Other
 
 * [pysonar2](https://github.com/yinwang0/pysonar2) - a semantic indexer library for Python, designed for batch processing of large code bases
+* [autopep8](https://github.com/hhatto/autopep8) - a tool that automatically formats Python code to conform to the PEP 8 style guide
 
 ## Feedback
 
