@@ -28,7 +28,9 @@ Tools to debug, profile, validate software written in python language.
 
 * [pylint](https://github.com/PyCQA/pylint) - a Python static code analysis tool which looks for programming errors, helps enforcing a coding standard, sniffs for code smells and offers simple refactoring suggestions.
 * [flake8](https://github.com/PyCQA/flake8) - a wrapper around these tools: PyFlakes, pycodestyle, Ned Batchelder's McCabe script
-* [pyflakes](https://github.com/PyCQA/pyflakes) - A simple program which checks Python source files for errors
+* [pyflakes](https://github.com/PyCQA/pyflakes) - a simple program which checks Python source files for errors
+* [prospector](https://github.com/PyCQA/prospector) - a tool to analyse Python code and output information about errors, potential problems, convention violations and complexity
+* [mypy](https://github.com/python/mypy) - an optional static type checker for Python 
 
 ## Security
 
