@@ -25,8 +25,8 @@ Tools to debug, profile, validate software written in python language.
 
 ## Lynters
 
-* wonderful lynter
-* exciting lynter
+* [pylint](https://github.com/PyCQA/pylint) - a Python static code analysis tool which looks for programming errors, helps enforcing a coding standard, sniffs for code smells and offers simple refactoring suggestions.
+* [flake8](https://github.com/PyCQA/flake8) - a wrapper around these tools: PyFlakes, pycodestyle, Ned Batchelder's McCabe script
 
 ## Feedback
 
