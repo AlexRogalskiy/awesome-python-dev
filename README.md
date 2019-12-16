@@ -15,6 +15,7 @@ Tools to debug, profile, validate software written in python language.
 ## Debuggers
 
 * [pudb](https://github.com/inducer/pudb) - Full-screen console debugger for Python
+* [ipython](https://github.com/ipython/ipython) - Productive Interactive Computing
 
 ## Lynters
 
