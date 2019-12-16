@@ -10,8 +10,7 @@ Tools to debug, profile, validate software written in python language.
 
 ## Memory Profilers
 
-* awesome profiler
-* amazing profiler
+* [Pympler](https://github.com/pympler/pympler) - Pympler is a development tool to measure, monitor and analyze the memory behavior of Python objects in a running Python application
 
 ## Debuggers
 
