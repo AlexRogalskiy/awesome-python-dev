@@ -5,8 +5,8 @@ Tools to debug, profile, validate software written in python language.
 ## Contents
 
 * [CPU Profilers](#cpu-profilers)
-* [Memory Profilers](#memory-profiler)
-* [Debuggers](#debugger)
+* [Memory Profilers](#memory-profilers)
+* [Debuggers](#debuggers)
 * [Lynters](#lynters)
 
 ## CPU Profilers
