@@ -9,6 +9,7 @@ Tools to debug, profile, validate software written in python language.
 * [Debuggers](#debuggers)
 * [Static Analysis](#static-analysis)
 * [Security](#security)
+* [Other](#other)
 
 ## CPU Profilers
 
@@ -31,10 +32,15 @@ Tools to debug, profile, validate software written in python language.
 * [pyflakes](https://github.com/PyCQA/pyflakes) - a simple program which checks Python source files for errors
 * [prospector](https://github.com/PyCQA/prospector) - a tool to analyse Python code and output information about errors, potential problems, convention violations and complexity
 * [mypy](https://github.com/python/mypy) - an optional static type checker for Python 
+* [mccabe](https://github.com/PyCQA/mccabe) - Ned's script to check McCabe complexity
 
 ## Security
 
 * [bandit](https://github.com/PyCQA/bandit) -  a tool designed to find common security issues in Python code
+
+## Other
+
+* [pysonar2](https://github.com/yinwang0/pysonar2) - a semantic indexer library for Python, designed for batch processing of large code bases
 
 ## Feedback
 
