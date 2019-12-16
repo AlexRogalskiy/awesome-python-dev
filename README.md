@@ -1,4 +1,4 @@
-# awesome-python-debugging
+# awesome-python-dev
 
 Tools to debug, profile, validate software written in python language.
 
