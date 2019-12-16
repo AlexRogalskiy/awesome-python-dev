@@ -1,6 +1,6 @@
 # awesome-python-dev
 
-Tools to debug, profile, validate software written in python language.
+List of tools for debugging, profiling and finding errors in python programs.
 
 ## Contents
 
