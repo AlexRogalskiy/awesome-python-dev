@@ -4,9 +4,15 @@ Tools to debug, profile, validate software written in python language.
 
 ## Contents
 
+* [CPU Profilers](#cpu-profilers)
 * [Memory Profilers](#memory-profiler)
 * [Debuggers](#debugger)
 * [Lynters](#lynters)
+
+## CPU Profilers
+
+* [py-spy](https://github.com/benfred/py-spy) - Sampling profiler running in separate process
+* [pyflame](https://github.com/uber-archive/pyflame) - A Ptracing Profiler For Python
 
 ## Memory Profilers
 
