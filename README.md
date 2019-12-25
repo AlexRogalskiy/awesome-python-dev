@@ -8,6 +8,7 @@ List of tools for debugging, profiling and analyzing python programs.
 * [Memory Profilers](#memory-profilers)
 * [Debuggers](#debuggers)
 * [Static Analysis](#static-analysis)
+* [Type Check](#type-check)
 * [Security](#security)
 * [Other](#other)
 
@@ -33,7 +34,11 @@ List of tools for debugging, profiling and analyzing python programs.
 * [prospector](https://github.com/PyCQA/prospector) - a tool to analyse Python code and output information about errors, potential problems, convention violations and complexity
 * [mypy](https://github.com/python/mypy) - an optional static type checker for Python 
 * [mccabe](https://github.com/PyCQA/mccabe) - Ned's script to check McCabe complexity
+
+## Type Check
 * [pytype](https://github.com/google/pytype) - checks and infers types for your Python code - without requiring type annotations
+* [pyre](https://github.com/facebook/pyre-check) - a performant type checker for python
+* [pyright](https://github.com/microsoft/pyright) - a fast type checker meant for large Python source bases
 
 ## Security
 
